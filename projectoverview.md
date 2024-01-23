@@ -16,9 +16,9 @@ To optimize the Our project has three main goals:
 3. Maximizing the Sunlight to all Functions 
 4. Minimizing Noise Pollution  
 
-# Site Location, Considerations, Residents, Programs 
+# Site Location 
 
-![Text_test](assets/img/path.jpg)
+![Text_test](assets/img/site_location_test.png)
 
 Add a description of the site location... 
 
