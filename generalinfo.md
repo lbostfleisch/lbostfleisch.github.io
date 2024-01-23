@@ -15,6 +15,8 @@ To optimize the Our project has three main goals:
 3. Maximizing the Sunlight to all Functions 
 4. Minimizing Noise Pollution  
 
+![A beautiful path](.assests/img/path.jpg)
+
 
 Please read through the rest of the website to get an insight into the different elements of our project and how we integrate Procedural Design in Houdini to do so. 
 
