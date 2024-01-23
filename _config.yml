@@ -25,7 +25,7 @@ navbar-links:
     - Program of Requirements: "por"
     - Visualization: "vis"
     - User Scenarios: "user"
-  Massing: "programoverview"
+  Massing: "massing"
     - Size: "size"
     - Water tank: "watertank"
     - Evelope Shaping: "envelope"
@@ -33,10 +33,10 @@ navbar-links:
     - Analyses: "analyses"
     - Weighing: "weighing"
     - Function Growing: "growing"
-  Modelling: 
+  Modelling: "modelling"
     - Refining: "refining"
     - Final Building Shape: "buildingshape" 
-  Materialization: 
+  Materialization: "materialization:
     - Facade Definition: "facadedefinition"
     - Material Choice: "material"  
     - Rendering: "rendering"
