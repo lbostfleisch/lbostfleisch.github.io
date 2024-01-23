@@ -37,5 +37,5 @@ We have three main types of residents: students, elderly people, and starter fam
 In our building we consider the integration of 10 different types of programs to enhance community life. 
 ... add more information
 
-![Just adding this image for trail...change later!](assets/img/program_overview.jpg)
+![Just adding this image for trail...change later!](assets/img/program_overview.png)
 
