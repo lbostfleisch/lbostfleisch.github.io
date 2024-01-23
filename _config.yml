@@ -21,22 +21,22 @@ author: ALCH Architects
 
 navbar-links:
   Project Overview: "projectoverview"
-  Initial Design Process: "initdesignprocess"
+  Initial Design Process:
     - Program of Requirements: "por"
     - Visualization: "vis"
     - User Scenarios: "user"
-  Massing: "massing"
+  Massing:
     - Size: "size"
     - Water tank: "watertank"
     - Evelope Shaping: "envelope"
-  Tuning: "tuning"
+  Tuning:
     - Analyses: "analyses"
     - Weighing: "weighing"
     - Function Growing: "growing"
-  Modelling: "modelling"
+  Modelling:
     - Refining: "refining"
     - Final Building Shape: "buildingshape" 
-  Materialization: "materialization:
+  Materialization:
     - Facade Definition: "facadedefinition"
     - Material Choice: "material"  
     - Rendering: "rendering"
