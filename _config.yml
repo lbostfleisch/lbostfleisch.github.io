@@ -20,11 +20,28 @@ author: ALCH Architects
 ###############################################
 
 navbar-links:
-  General Information: "generalinfo"
-  Process:
-    - Design process: "designprocess"
-    - Program overview: "programoverview"
+  Project Overview: "projectoverview"
+  Initial Design Process: "initdesignprocess"
+    - Program of Requirements: "por"
+    - Visualization: "vis"
+    - User Scenarios: "user"
+  Massing: "programoverview"
+    - Size: "size"
+    - Water tank: "watertank"
+    - Evelope Shaping: "envelope"
+  Tuning: "tuning"
+    - Analyses: "analyses"
+    - Weighing: "weighing"
+    - Function Growing: "growing"
+  Modelling: 
+    - Refining: "refining"
+    - Final Building Shape: "buildingshape" 
+  Materialization: 
+    - Facade Definition: "facadedefinition"
+    - Material Choice: "material"  
+    - Rendering: "rendering"
   Final design: "finaldesign"
+  Reflection: "reflection"
 
 ################
 # --- Logo --- #
@@ -35,7 +52,7 @@ navbar-links:
 avatar: "/assets/img/test_image.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
