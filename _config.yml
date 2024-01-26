@@ -22,9 +22,9 @@ author: ALCH Architects
 navbar-links:
   Project Overview: "projectoverview"
   Initial Design Process:
+    - User Scenarios: "user"
     - Program of Requirements: "por"
     - Visualization: "vis"
-    - User Scenarios: "user"
   Massing:
     - Size: "size"
     - Water tank: "watertank"
