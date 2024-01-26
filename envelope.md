@@ -22,4 +22,4 @@ ADD DESCRIPTION OF HOW THIS WAS DONE
 
 To account for existing surrounding structures, the calculated shape after the sunlight analysis is adapted to remove the existing beer garden, the existing parking ramp, as well as the Luchtsingel. The Luchtsingel is a yellow path throughout Rotterdam which connects the main features of the city, and hence needs to be maintained in the construction of AFFINITY. Further, this provides a sense of familiarity and connection with the rest of the city. 
 
-![Text_test](assets/img/shape_removal.png.png)
+![Text_test](assets/img/shape_removal.png)
