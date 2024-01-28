@@ -1,8 +1,7 @@
 ---
-layout: home
-title: Affinity
-subtitle: Procedural Design to enhance the Schieblock
-subsubtitle: This WebPage sums up the work of the Computational Simulations Course (bk7083) at TU Delft. 
+layout: Page
+title: Growing Function
+subtitle: Growing Algorithm to reach desired building shape
 ---
 <html lang="en">
 <head>
@@ -12,25 +11,20 @@ subsubtitle: This WebPage sums up the work of the Computational Simulations Cour
 </head>
 <body>
 
-<h1>General Concept</h1>
 
-<p>With the goal of creating a final building model to complete the existing Schieblock in Rotterdam, this page serves a display of the involved design process, hard & soft criteria, and the final building model. 
-    The steps we followed are: intial design process, massing, tuning, modelling, materialization, and the final design. 
-    All steps can be followed in the website header, which link you to the corresponding page with more indepth information about each step. 
-    In the link "project overview", you can follow the site and building requirements, as well as the general idea of the project.
-    Lastly, the section "reflection" serves as an insight into the design process and the challenges on the way. Here, you can also find all of our final deliverables of the project.</p>
+<p>To reach the desired area for each program of our AFFINITY building, the growing function starts at each seed point (=voxel with optimal values for each function). The seed point is then recognized as the parent voxel. From this the neighboring voxels (children) are checked to see if they are empty or occupied. If they are empty, the values for each voxel, under consideration of the function's weights, are evaluated and the algorithm chooses the next best voxel. For example, if a program has the seed point with a value 0.9 (considering the program’s weights), and the next best surrounding voxel has a value of 0.8, this neighboring voxel will be chosen. The growing algorithm stops when the desired area is reached. 
+</p>
 
-<h2>Authors</h2>
+<img src="assets/img/growing.png" alt="Text_test">
 
-<p>We are a group of four students from TU Delft following the minor "Spatial Computing for Sustainable Design". This website serves as a showcase of what we have worked on in the past 3 months of the course.
-    We hope you enjoy looking into our project and what we have worked on over the last few months. 
+<p>For our AFFINITY building, the growing algorithm began with 16 seed points as we have 16 different programs. Below you can see a video of the growing algorithm that reaches our final desired design. 
 </p>
-<p> 
-    Best, 
-</p>
-<p>
-    Celia [lastname], Alexia [lastname], Hugo [lastname], Luca Boestfleisch 
-</p>
+
+<video controls width="400">
+    <source src="assets/img/growing_shortened.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
 
 </body>
 </html>
