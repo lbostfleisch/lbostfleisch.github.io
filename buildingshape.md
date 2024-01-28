@@ -23,15 +23,15 @@ The following elevator shaft placement and shortest path resulted from this:
 
 According to the elevator and program placement, the different user experiences and scenarios are visualized. Each type of resident moves differently throughout the building. 
 
-Below is an flow diagram of how the elderly (independent and assisted) move through the building" 
+Below is an flow diagram of how the elderly (independent and assisted) move through the building: 
 
 ![Text_test](assets/img/elderly_circulation.png)
 
-Below is an flow diagram of how the students (starters and studios) move through the building" 
+Below is an flow diagram of how the students (starters and studios) move through the building: 
 
 ![Text_test](assets/img/student_circulation.png)
 
-Below is an flow diagram of how the starters move through the building" 
+Below is an flow diagram of how the starters move through the building: 
 
 ![Text_test](assets/img/starter_circulation.png)
 
