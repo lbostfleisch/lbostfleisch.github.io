@@ -18,7 +18,7 @@ Please see the image below for a schematic overview of the facade definition:
 
 ### Types of Facades 
 
-To assign the facade with different elements, three main classes are created: (1) walls, (2) balconies, and (3) roofs. To classify the walls, there are walls with windows, sound walls, glass walls, car park walls with holes for ventilation, and green walls. Depending on the type and purpose of a function, the walls are assigned accordingly. The balconies can either be located in a corner, on or in somethings, and are placed accordingly. The roofs are either classed as a green roof, or a floor, also depending on the height of the building. 
+To assign the facade with different elements, three main classes are created: (1) walls, (2) balconies, and (3) roofs. To classify the *walls*, there are walls with windows, sound walls, glass walls, car park walls with holes for ventilation, and green walls. Depending on the type and purpose of a function, the walls are assigned accordingly. The *balconies* can either be located in a corner, on or in somethings, and are placed accordingly. The *roofs* are either classed as a green roof, or a floor, also depending on the height of the building. 
 
 See the image below for the different types of facade classes. 
 
