@@ -11,9 +11,7 @@ To reach the desired area for each program of our AFFINITY building, the growing
 
 For our AFFINITY building, the growing algorithm began with 16 seed points as we have 16 different programs. Below you can see a video of the growing algorithm that reaches our final desired design. 
 
-![Text_test](assets/img/growing_shortened.mp4)
 
-<video controls width="400">
-  <source src="assets/img/growing_shortened.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/lbostfleisch/lbostfleisch.github.io/assets/151149344/f91c4f0c-fdfd-4e5e-b911-3e5a039a5377
+
+
