@@ -28,7 +28,7 @@ navbar-links:
   Massing:
     - Size: "size"
     - Water tank: "watertank"
-    - Evelope Shaping: "envelope"
+    - Envelope Shaping: "envelope"
   Tuning:
     - Analyses: "analyses"
     - Weighing: "weighing"
