@@ -15,3 +15,9 @@ After refining the building shape and assigning the facade types in Houdini, the
 To see how the building fits into the surrounding, an urban plan for AFFINITY was created with its direct surroundings in Rotterdam. Further, an urban collage was created with Google Earth to visualize the surroundings. . 
 
 ![Text_test](assets/img/contextecollage.jpg)
+
+### Rendering
+
+In the following image, the rendered AFFINITY building is visible. 
+
+![Text_test](assets/img/lastimage.jpg)
