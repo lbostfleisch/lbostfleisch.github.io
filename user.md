@@ -33,7 +33,11 @@ The following user perspectives are considered:
 
 ![Text_test](assets/img/starters.png)
 
+### Summary of User Needs 
+The needs of all residents is summarized in the following table. From the table it becomes clear that the elderly residents care a lot about the accessibility to the building, whereas the students care about the presence of shared facilities and potential views. 
+In the following table a dark green check means the resident care a lot about this issue, a light green check they care a little, a dark green cross they do not care about this issue, and a light green check they don't care a lot. 
 
+![Text_test](assets/img/userneeds.png)
 
 
 
