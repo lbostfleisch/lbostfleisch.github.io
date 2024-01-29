@@ -13,6 +13,6 @@ For our AFFINITY building, the growing algorithm began with 16 seed points as we
 If you follow the link below, you can see a video of the growing algorithm that reaches our final desired design. 
 
 
-https://github.com/lbostfleisch/lbostfleisch.github.io/assets/151149344/f91c4f0c-fdfd-4e5e-b911-3e5a039a5377
+![Text_test](assets/gif/growing2_2801.gif)
 
 
