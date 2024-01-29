@@ -41,7 +41,11 @@ navbar-links:
     - Material Choice: "material"  
     - Rendering: "rendering"
   Final design: "finaldesign"
-  Reflection: "reflection"
+  Deliverables: 
+    - Reflection: "reflection"
+    - Codebook: "codebook"
+    - Poster: "poster"
+    - References: "references"
 
 ################
 # --- Logo --- #
