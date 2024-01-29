@@ -14,7 +14,7 @@ After all the functions are placed in the building, the circulation of the resid
 To define the optimal positions for the elevators all the ground points of the building are selected. For each ground point the vertical height and the number of functions above the ground point are calculated. Then, the different ground points are scored and the ground point with the best scores is chosen for the location of one of the elevators. To get the spot for the second elevator points that are close to the first elevator are deleted and the place with the highest score after the deletion is chosen for the second elevator. Next, the elevator ground points are extended into the height. To generate a hallway between the two elevators points which are close to the outside of the building are given a higher cost than points in the middle of the floor, this means that the hallway will want to generate in the middle of the building. Finally, the shortest path between the two elevators is calculated to best represent the circulation between the two elevators in relation to the programs. 
 
 Below is a depiction of the created workflow: 
-![Text_test](assets/img/elevator_workflow.png)
+![Text_test](assets/img/elevator_worklow.png)
 
 The following elevator shaft placement and shortest path resulted from this:
 
