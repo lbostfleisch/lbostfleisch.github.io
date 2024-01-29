@@ -14,7 +14,7 @@ For the other programs, glass material is considered to make the programs more a
 
 Please see the image below for a schematic overview of the facade definition:
 
-![Text_test](assets/img/facade_def.png)
+![Text_test](assets/img/facade_def2.png)
 
 ### Types of Facades 
 
