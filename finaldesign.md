@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Final Design
+subtitle: Collages & Rendering
 ---
 
 ### Collage 

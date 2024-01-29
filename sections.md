@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Weighing 
-subtitle: Weighing of criteria for different programs 
+title: Sections and Floor Plans  
 ---
 Here, you can see the different sections of our AFFINITY building. One floor plan and two sections can be seen below. 
 
