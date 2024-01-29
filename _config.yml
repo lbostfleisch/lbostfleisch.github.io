@@ -40,7 +40,9 @@ navbar-links:
     - Facade Definition: "facadedefinition"
     - Material Choice: "material"  
     - Rendering: "rendering"
-  Final design: "finaldesign"
+  Final design: 
+    - Rendering & Collages: "finaldesign"
+    - Floor Plans & Sections: "sections"
   Deliverables: 
     - Reflection: "reflection"
     - Poster: "poster"
