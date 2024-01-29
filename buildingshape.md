@@ -17,7 +17,7 @@ Below is a depiction of the created workflow:
 ![Text_test](assets/img/elevator_workflow.png)
 
 The following elevator shaft placement and shortest path resulted from this: 
-![Text_test](assets/img/elevator.png)
+![Text_test](assets/gif/hallway_generation.gif)
 
 ### Circulation in the building 
 
