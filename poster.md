@@ -7,4 +7,4 @@ To summarize our project we have created a poster to visualize the final buildin
 
 If you wish to view our poster, please follow the link below. 
 
-[Download AFFINITY PDF](assets/pdf/FinalPoster.pdf){:target="_blank"}P
+[Download AFFINITY PDF](assets/pdf/FinalPoster.pdf){:target="_blank"}
