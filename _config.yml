@@ -38,8 +38,6 @@ navbar-links:
     - Final Building Shape & Circulation: "buildingshape" 
   Materialization:
     - Facade Definition: "facadedefinition"
-    - Material Choice: "material"  
-    - Rendering: "rendering"
   Final design: 
     - Rendering & Collages: "finaldesign"
     - Floor Plans & Sections: "sections"
