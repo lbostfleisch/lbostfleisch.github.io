@@ -8,6 +8,6 @@ Here, you can see the different sections of our AFFINITY building. One floor pla
 
 ![Text_test](assets/img/floorplan_residential.png)
 
-![Text_test](assets/img/sectionA.jpg)
+![Text_test](assets/img/sectionA.png)
 
-![Text_test](assets/img/sectionB.jpg)
+![Text_test](assets/img/SectionB.png)
